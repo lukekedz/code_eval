@@ -1,7 +1,3 @@
-Hello World,r
-
-
-
-
-Hello CodeEval,Q
-Hello CodeEval,E
+2020
+22
+1210
