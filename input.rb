@@ -1,4 +1,3 @@
-Hello world
-javaScript language
-a letter
-1st thing
+Hello world!
+JavaScript language 1.8
+A letter
