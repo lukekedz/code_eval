@@ -1,5 +1,2 @@
-ABbCcc
-Good luck in the Facebook Hacker Cup this year!
-Ignore punctuation, please :)
-Sometimes test cases are hard to make up.
-So I just go consult Professor Dalves
+70.920 -38.797 14.354 99.323 90.374 7.581
+-37.507 -3.263 40.079 27.999 65.213 -55.552
