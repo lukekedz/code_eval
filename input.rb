@@ -1,3 +1,3 @@
-Hello world!
-JavaScript language 1.8
-A letter
+some line with text
+another line
+the bear went to play in the jungle
